@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhmannat Singh</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🎓 2nd Year B.E CSE Student @ Chandigarh University</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🎓 3rd Year B.E CSE Student @ Chandigarh University</h3>
 
 <p align="center">
   <a href="mailto:contact@prabh.site"><img src="https://img.shields.io/badge/Email-contact@prabh.site-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
