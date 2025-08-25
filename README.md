@@ -13,6 +13,7 @@
 
 - 🔭 Working on AI/ML pipelines to decode **Black Hole dynamics**
 - 🩺 Founder of **Swasth AI** — AI-powered healthcare diagnostics
+- 💻 Tech lead and developer at **Ingen Labs** - AI edtech StartUp.
 - 🤝 Collaborated with research teams at **University of Sydney** & **Monash University**
 - 🏆 Won 🥈 at Monash Hackathon | 📘 Co-author of a Black Hole research book
 - 🎯 Passionate about **MERN stack**, system design, and **machine learning for good**
@@ -121,14 +122,6 @@
 
 ---
 
-## 🎯 2025 Goals
-
-- ✅ Master `Next.js 14`, `Server Actions`, and `clean architecture`
-- ✅ Build & deploy end-to-end production-grade full-stack apps
-- ✅ Contribute to impactful open-source repositories
-- ✅ Scale Swasth AI & publish Black Hole pipeline findings
-
----
 
 ## 📫 Reach Me
 
