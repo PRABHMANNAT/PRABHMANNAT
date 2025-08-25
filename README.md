@@ -128,7 +128,7 @@
 ### 📫 Reach Me
 
 - Email: **contact@prabh.site**  
-- LinkedIn: **/in/prabhmannat**
+- LinkedIn: **www.linkedin.com/in/prabhmannat**
 
 <!--
 Tips:
