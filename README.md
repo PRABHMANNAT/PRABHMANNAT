@@ -113,12 +113,17 @@
 
 ## 🔥 Featured Projects
 
+> 🚀 More repositories will be uploaded this week  - Slowly Slowly Updating my Github
+
 | 💡 Project | ⚙️ Description | 🛠 Stack | 🔗 Link |
 |------------|----------------|----------|--------|
-| **Dressify** | Fashion e-commerce app w/ Stripe & auth | React, MongoDB, Express, Node, Stripe | [Live](#) |
-| **CryptoFinder** | Real-time crypto tracker using CoinGecko | React, Axios, Chart.js, Tailwind | [Live](#) |
-| **MausamWiki** | Weather app with location-based forecast | React, Tailwind, OpenWeather API | [Live](#) |
-| **NoteBox** | Markdown-based notes app with folders | MERN, Firebase Auth | Coming Soon 🚧 |
+| **Swasth AI** | AI-powered healthcare diagnostics platform delivering smart reports and predictive health insights | MERN, PyTorch, Docker, Kubernetes | Coming Soon 🚧 |
+| **Ingenium Labs** | EdTech startup offering **Virtual Simulation Labs** | Next.js, React, Node.js, LLM APIs, WebRTC | Coming Soon 🚧 |
+| **Black Hole Simulator** | A **C++-based physics engine** modeling black hole dynamics and visualizing event horizons for research/learning | C++, OpenGL, CUDA (for GPU acceleration) | Coming Soon 🚧 |
+| **AI Research Pipeline** | End-to-end ML pipeline for **churn prediction** & **reinforcement learning** in customer retention | Python, TensorFlow, Scikit-learn | Coming Soon 🚧 |
+| **Smart AI Photo Editor** | Next-gen **AI editing app**: auto color grading, background cleanup, object removal & Veo3-style creative prompts | React, Node.js, Stable Diffusion, OpenAI APIs | Coming Soon 🚧 |
+| **Zoom Clone** | Real-time video conferencing platform with meetings, chat, screen share & recording | WebRTC, Socket.io, Next.js, Node.js | Coming Soon 🚧 |
+
 
 ---
 
