@@ -88,21 +88,7 @@ I build **production-grade full-stack web and mobile products** using **React/Ne
 | 🌌 **Research** | Astronomy simulations • Black hole dynamics • Physics modeling experiments |
 | 🤝 **Open to Collaborate** | Commissioned projects • AI/NLP/DL research • Physics AI projects • Full-stack MVPs |
 
----
 
-## 📚 Research Work
-
-<div style="text-align: left">
-
-- **VLab Text-to-Simulation** — Natural language → interactive STEM simulation experiences  
-- **Robust Semantic Watermarks for LLM Outputs** under retrieval & editing  
-- **Detection of AI-Generated Art & Painting Plagiarism** using model optimization  
-- **Swasth AI** — diagnostics & model fusion research  
-- **Python-based Visual Chatbot** for research-grade HCI apps
-
-</div>  
-
----
 
 ## 🧰 Tech Stack
 <br>
