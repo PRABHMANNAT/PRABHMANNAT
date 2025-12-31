@@ -105,102 +105,23 @@ I build **production-grade full-stack web and mobile products** using **React/Ne
 ---
 
 ## 🧰 Tech Stack
-
-<div align="center">
-
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=js,py,rust,cpp,ts&perline=10" />
-
-<br/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,bootstrap,vite&perline=10" />
-
-<br/>
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,firebase&perline=10" />
-
-<br/>
-
-### AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=10" />
-
-<br/>
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,prisma&perline=10" />
-
-<br/>
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,git,linux,nginx,vercel&perline=10" />
-
-<br/>
-
-### Tools
-<img src="https://skillicons.dev/icons?i=vscode,figma,notion,postman&perline=10" />
-
-</div>
-
 <br>
 
 <div align="center">
 
-<details>
-<summary><b> Machine Learning & Generative AI</b></summary>
+<div align="center">
 
-**Frameworks & Platforms:**
-- LangChain, RAG Pipelines, Agentic AI (LangGraph), LlamaIndex
-- OpenAI API, Hugging Face Transformers, Ollama (Local LLMs)
-- LangSmith, Google AI Studio
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,rust,cpp,tailwind,nodejs,express,graphql&perline=10" />
+<br/>
+<br>
 
-**ML Libraries:**
-- TensorFlow, PyTorch, Scikit-learn, Keras
-
-**Vision & NLP:**
-- OpenCV, Google Vision API, Spacy, NLTK
-
-</details>
-
-<details>
-<summary><b>Data Science & Research</b></summary>
-
-- **Analysis:** NumPy, Pandas, Matplotlib, Seaborn
-- **Scientific Computing:** Astropy, SciPy
-- **Environment:** Google Colab, Jupyter
-
-</details>
-
-<details>
-<summary><b>Backend & Real-time</b></summary>
-
-- **API & Communication:** GraphQL (Apollo), WebRTC, WebSockets (Socket.io)
-- **ORM:** Prisma, Mongoose
-- **Query Optimization:** TanStack Query
-
-</details>
-
-<details>
-<summary><b>Frontend Advanced</b></summary>
-
-- **UI Libraries:** Shadcn/UI, Framer Motion
-- **Frameworks:** Next.js 14 (App Router)
-- **Styling:** Tailwind CSS, Sass, Bootstrap
-
-</details>
-
-<details>
-<summary><b>Development Tools</b></summary>
-
-- **AI Tools:** Warp AI Terminal, Cursor, Google Stitch & Antigravity, v0.dev, Claude Code
-- **Design:** Figma, Framer
-- **Productivity:** Notion, Arc Browser
-- **DevOps:** GitHub Actions, Jenkins, Postman
-
-</details>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,mongodb,supabase,mysql,postgres&perline=10" />
+<br/>
+<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,git,linux&perline=10" />
 
 </div>
+
 <br>
 <br>
 
@@ -248,7 +169,7 @@ Crafting intelligent systems where AI entities make autonomous decisions, learn 
 </td>
 <td align="center" width="33%">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R5ZGJ3YmhseGJrMmF0aGJybTdmNnJ6cGJkOGNvbmdsZDdhNG9oOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" width="180"/>
+<img src="https://media1.tenor.com/m/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif" width="180"/>
 
 ### Simulation Engines
 
