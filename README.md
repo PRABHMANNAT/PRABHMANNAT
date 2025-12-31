@@ -92,7 +92,7 @@ I build **production-grade full-stack web and mobile products** using **React/Ne
 
 ## 📚 Research Work
 
-<div style="text-align: justify">
+<div style="text-align: left">
 
 - **VLab Text-to-Simulation** — Natural language → interactive STEM simulation experiences  
 - **Robust Semantic Watermarks for LLM Outputs** under retrieval & editing  
@@ -210,22 +210,19 @@ Engineering powerful automation solutions that eliminate repetitive tasks, strea
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Open to discussing AI products, research collaborations, or building something innovative together!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 
-<br/>
-<br/>
 
+<br>
 <a href="https://www.linkedin.com/in/prabhmannat" target="_blank">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
 </a>
 
 <br/>
-<br/>
+<br>
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28"/>
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="28"/>
 
 </div>
-
----
 
 <div align="center">
 
