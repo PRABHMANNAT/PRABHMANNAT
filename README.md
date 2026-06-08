@@ -204,17 +204,17 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,svelte,ts,js,tailwind,bootstrap,threejs,vite&perline=10" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,js,tailwind,bootstrap,threejs,vite&perline=10" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,graphql,prisma,bun,jest&perline=10" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,graphql,prisma,jest&perline=10" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,cpp,c,rust,go,java&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,cpp,c,go&perline=10" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis,sqlite,firebase,aws,gcp,azure&perline=10" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis,aws,gcp,azure&perline=10" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,nginx,githubactions,terraform,linux,bash,vim&perline=10" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,nginx,githubactions,terraform,linux&perline=10" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion,obsidian,html,css,sass&perline=10" />
+<img src="https://skillicons.dev/icons?i=git,postman,figma,obsidian,html,css,sass&perline=10" />
 <br/><br/>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
