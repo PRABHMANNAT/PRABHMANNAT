@@ -208,7 +208,7 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=redux,threejs,jest,nodejs,express,nestjs,fastapi,django,flask,graphql,prisma,mongodb&perline=12" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,supabase,redis,pytorch,tensorflow&perline=12" />&nbsp;<img src="https://cdn.simpleicons.org/claude/D97757" height="44" alt="Claude" />&nbsp;<img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%23D97757" height="44" alt="Claude Code" />&nbsp;<img src="https://api.iconify.design/simple-icons/openai.svg?color=%2374AA9C" height="44" alt="Codex" />&nbsp;<img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=12" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase,redis,pytorch,tensorflow&perline=12" />&nbsp;<img src="https://cdn.simpleicons.org/claude/D97757" height="44" alt="Claude" />&nbsp;<img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=12" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,nginx,terraform,postman,git,obsidian,figma,linux&perline=12" />
 
