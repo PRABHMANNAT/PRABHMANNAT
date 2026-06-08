@@ -11,27 +11,27 @@
 
 <div align="center">
 
-
-
 <!-- ===== TYPING ANIMATION ===== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=850&center=true&vCenter=true&width=1000&lines=Next.js+%2B+Node.js+%7C+RAG+%2B+Agents+%7C+AWS+%2B+DevOps;Full-Stack+Software+Engineer;GenAI+Engineer+%7C+LLMs+%7C+RAG+%2B+Agents;Co-Founder+%26+Lead+Architect+%40+Ingenium;Computational+Physics+%26+AI+Researcher+%7C+Black+Holes+%7C+Deep+Networks" alt="Typing SVG" />
-</a>
-
-<!-- ===== CTA LINKS ===== -->
 <p>
- 
-  <a href="mailto:contact@prabhmannat.site">
-    <img src="https://img.shields.io/badge/Email-contact%40prabhmannat.site-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/prabhmannat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1u9RVlFNkr1J5Ng3gWvIgcF-kiaFIu_kU/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-34A853?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=850&center=true&vCenter=true&width=800&height=40&lines=Next.js+%2B+Node.js+%7C+RAG+%2B+Agents+%7C+AWS+%2B+DevOps;Full-Stack+Software+Engineer;GenAI+Engineer+%7C+LLMs+%7C+RAG+%2B+Agents;Co-Founder+%26+Lead+Architect+%40+Ingenium;Computational+Physics+%26+AI+Researcher+%7C+Black+Holes+%7C+Deep+Networks" alt="Typing SVG" />
   </a>
 </p>
 
+<br/>
+
+<!-- ===== CTA LINKS ===== -->
+<p>
+  <a href="mailto:Prabhmannat10048@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Prabhmannat10048%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/prabhmannat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/file/d/1u9RVlFNkr1J5Ng3gWvIgcF-kiaFIu_kU/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
 </div>
 
@@ -282,7 +282,7 @@ Smart dashboards, data pipelines, and AI assistants.
 <a href="https://www.linkedin.com/in/prabhmannat" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:contact@prabhmannat.site">
+<a href="mailto:Prabhmannat10048@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://drive.google.com/file/d/1u9RVlFNkr1J5Ng3gWvIgcF-kiaFIu_kU/view?usp=sharing" target="_blank">
