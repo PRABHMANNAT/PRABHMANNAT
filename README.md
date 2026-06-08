@@ -240,45 +240,20 @@ Smart dashboards, data pipelines, and AI assistants.
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=760&height=40&color=FFD700&lines=Available+for+Paid+Projects+%26+Freelance+Work.;Open+to+Full-Time+%26+Internship+Opportunities.;Open+to+Consulting+on+GenAI+%2B+Full-Stack+builds.;Let's+build+something+meaningful+together." alt="Connect Typing SVG" />
-</a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=760&height=40&color=FFD700&lines=Available+for+Paid+Projects+%26+Freelance+Work.;Open+to+Full-Time+%26+Internship+Opportunities.;Open+to+Consulting+on+GenAI+%2B+Full-Stack+builds.;Let's+build+something+meaningful+together." alt="Connect Typing SVG" /></a>
 <br/>
-
 <img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-34A853?style=for-the-badge&labelColor=0b1220" alt="Open to Work" />
 <img src="https://img.shields.io/badge/AVAILABLE%20FOR%20HIRE-FFD700?style=for-the-badge&labelColor=0b1220&color=FFD700" alt="Available for Hire" />
 <img src="https://img.shields.io/badge/FREELANCE%20%E2%80%A2%20PAID%20PROJECTS-0A66C2?style=for-the-badge&labelColor=0b1220" alt="Freelance / Paid Projects" />
-
 <br/><br/>
-
-<!-- Contact Buttons -->
-<a href="https://www.linkedin.com/in/prabhmannat" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:Prabhmannat10048@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://drive.google.com/file/d/1u9RVlFNkr1J5Ng3gWvIgcF-kiaFIu_kU/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
-</a>
-<a href="https://github.com/PRABHMANNAT" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
+<a href="https://www.linkedin.com/in/prabhmannat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:Prabhmannat10048@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://drive.google.com/file/d/1u9RVlFNkr1J5Ng3gWvIgcF-kiaFIu_kU/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
+<a href="https://github.com/PRABHMANNAT" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
-
-<!-- GitHub Streak (2026 Contributions • Current Streak • Longest Streak) -->
-<a href="https://github.com/PRABHMANNAT">
-  <img src="https://streak-stats.demolab.com?user=PRABHMANNAT&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&date_format=M%20j%5B%2C%20Y%5D&starting_year=2026" alt="GitHub Streak Stats (2026)" />
-</a>
-
-<br/><br/>
-
-<!-- Contribution Activity Graph -->
-<a href="https://github.com/PRABHMANNAT">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRABHMANNAT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FF6B35&area=true&area_color=FFD700" alt="Contribution Graph" />
-</a>
+<a href="https://github.com/PRABHMANNAT"><img src="https://streak-stats.demolab.com?user=PRABHMANNAT&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&date_format=M%20j%5B%2C%20Y%5D&starting_year=2026" alt="GitHub Streak Stats (2026)" /></a>
+<br/>
+<a href="https://github.com/PRABHMANNAT"><img src="https://github-readme-activity-graph.vercel.app/graph?username=PRABHMANNAT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FF6B35&area=true&area_color=FFD700" alt="Contribution Graph" /></a>
 
 </div>
 
