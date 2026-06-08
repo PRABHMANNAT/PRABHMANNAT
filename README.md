@@ -60,20 +60,54 @@ I build **production-grade full-stack web and mobile products** using **React/Ne
 
 ---
 
-### 🏆 Achievements & Awards
+## 🏆 Notable Achievements
 
 <div style="text-align: justify">
 
-- 💰 **₹60,000 Research/Innovation Grant** — Awarded by Corporate Advisory Board (University Innovation Cell)
-- 📘 **Book Authorship** — Assistant Author for research book on Black Holes with Monash University faculty
-- 🥈 **2nd Place, Monash Hackathon** — Ranked 2nd out of 800+ teams in Monash University's global event
-- 🦈 **Shark Tank India Pitch** — Presented startup to judges Aman Gupta & Anupam Mittal at CU Ignite
-- 🏅 **Google Startup Award** — Won "People's Choice Award" at Google Sydney HQ for Ingenium's innovation
-- 💵 **University of Sydney Funding** — Secured $1,000 USD INCUBATE grant for product development
-- 🥇 **Winner, Smart Tech Ideathon 2.0** — Education Domain winner for revolutionizing learning outcomes
-- 🥇 **Winner, ThinkLab Ideathon** — 1st place with Ingenium (AI-driven learning platform)
-- 🤝 **Thapar Ventures MoU** — Signed MoU at E-Summit 25 to support regional startup ecosystem
-- 🎓 **IIT Mandi Alliance** — Collaborated with IIT Mandi Catalyst ventures during FrostHack 2025
+🇬🇧 **Top Selected Presenter — London Tech Week 2026**
+Presented research work at **London Tech Week 2026** as one of the top selected presenters, gaining international exposure at a leading global technology and innovation platform.
+
+🏅 **Winner of 11+ Hackathons**
+Won **11+ hackathons**, including **4 national-level** and **2 international hackathons**, demonstrating strong innovation, product-building, and problem-solving skills.
+
+🇦🇺 **2nd Place — Monash University Global Hackathon**
+Ranked **2nd out of 800+ teams** in a global hackathon organized by **Monash University**.
+
+🚀 **Google Startup People's Choice Award — Sydney**
+Won the **People's Choice Award** at **Google Sydney HQ** for Ingenium's innovation and impact in education technology.
+
+🏥 **₹1,00,000 Research Grant — Medical AI System**
+Received a **₹1 lakh research grant** for developing a **Multimodal Medical Fusion Diagnosis System** focused on advanced healthcare diagnostics.
+
+💡 **₹60,000 Research/Innovation Grant**
+Awarded a **₹60,000 Research/Innovation Grant** by the **Corporate Advisory Board, University Innovation Cell**, for innovation-driven research and development.
+
+🇦🇺 **USD $1,000 INCUBATE Funding — University of Sydney**
+Secured **$1,000 USD funding** from the **University of Sydney INCUBATE program** to support product development for Ingenium.
+
+🦈 **Shark Tank India Pitch — CU Ignite**
+Presented startup work to **Shark Tank India judges Aman Gupta and Anupam Mittal** at CU Ignite.
+
+🥇 **Winner — Project Expo 2026, Chandigarh University**
+Won **1st place at the university level** as an **all-category winner** for outstanding project innovation.
+
+⚔️ **Winner — Hackshastra 2026**
+Secured **1st place at Hackshastra 2026** for innovation, technical execution, and real-world problem-solving.
+
+🎓 **Winner — Smart Tech Ideathon 2.0**
+Won the **Education Domain** category for building solutions focused on improving learning outcomes.
+
+🧠 **Winner — ThinkLab Ideathon**
+Secured **1st place** with **Ingenium**, an AI-driven learning platform designed to make education more interactive and accessible.
+
+🎖️ **Exemplary Achievement Award — Abhyuthanam 2026**
+Honoured by **Chandigarh University** with the **Exemplary Achievement Award** for outstanding contributions in innovation, research, and entrepreneurship.
+
+🌌 **Assistant Author — Black Holes Research Book**
+Served as an **Assistant Author** for a research book on **Black Holes** with Monash University faculty, contributing to research on **Sagittarius A***.
+
+🤝 **Thapar Ventures MoU — E-Summit 2025**
+Signed an **MoU with Thapar Ventures** to support and strengthen the regional startup ecosystem.
 
 </div>
 
