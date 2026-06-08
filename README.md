@@ -260,32 +260,57 @@ Smart dashboards, data pipelines, and AI assistants.
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Open to discussing AI products, research collaborations, or building something innovative together!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-
-
-<br>
-<a href="https://www.linkedin.com/in/prabhmannat" target="_blank">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=720&color=FFD700&lines=Let's+build+something+meaningful+together.;Open+to+AI+products%2C+research+%26+founder+chats.;Always+up+for+ambitious%2C+real-world+problems." alt="Connect Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- GitHub Activity: 2026 Contributions + Current Streak + Longest Streak -->
+<!-- Collab Interests -->
+<table>
+<tr>
+<td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f9e0.png" width="36" /><br/><b>GenAI Products</b><br/><sub>RAG · Agents · LLM workflows</sub></td>
+<td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f9ea.png" width="36" /><br/><b>Research</b><br/><sub>Physics AI · NLP · CV</sub></td>
+<td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f680.png" width="36" /><br/><b>Founder Chats</b><br/><sub>EdTech · MVPs · 0→1</sub></td>
+<td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f4bc.png" width="36" /><br/><b>Freelance</b><br/><sub>Full-stack · AI integration</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Contact Buttons -->
+<a href="https://www.linkedin.com/in/prabhmannat" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:contact@prabhmannat.site">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://drive.google.com/file/d/1u9RVlFNkr1J5Ng3gWvIgcF-kiaFIu_kU/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+</a>
+<a href="https://github.com/PRABHMANNAT" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<!-- GitHub Streak (2026 Contributions • Current Streak • Longest Streak) -->
 <a href="https://github.com/PRABHMANNAT">
   <img src="https://streak-stats.demolab.com?user=PRABHMANNAT&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&date_format=M%20j%5B%2C%20Y%5D&starting_year=2026" alt="GitHub Streak Stats (2026)" />
 </a>
 
 <br/><br/>
 
-<!-- Contribution Activity Graph -->
-<a href="https://github.com/PRABHMANNAT">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRABHMANNAT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FF6B35&area=true&area_color=FFD700" alt="Contribution Graph" />
-</a>
+<!-- Footer badges -->
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="28"/>
 
 <br/><br/>
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="28"/>
+<!-- Contribution Activity Graph (kept at the very end) -->
+<a href="https://github.com/PRABHMANNAT">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRABHMANNAT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FF6B35&area=true&area_color=FFD700" alt="Contribution Graph" />
+</a>
 
 </div>
 
