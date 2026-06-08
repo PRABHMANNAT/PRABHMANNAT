@@ -248,13 +248,7 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 
 ### AI-Driven Systems
 
-<div style="text-align: justify">
-
-**Intelligent Agents** • **NPC Behaviors** • **Procedural Generation** • **Autonomous Decision Making**
-
-Crafting intelligent systems where AI entities make autonomous decisions, learn from patterns, adapt to environments, and create emergent, dynamic gameplay experiences that feel truly alive.
-
-</div>
+Intelligent agents, RAG, and autonomous workflows.
 
 </td>
 <td align="center" width="33%">
@@ -263,13 +257,7 @@ Crafting intelligent systems where AI entities make autonomous decisions, learn 
 
 ### Simulation Engines
 
-<div style="text-align: justify">
-
-**Physics Modeling** • **Astronomy Visualization** • **Real-time Rendering** • **Interactive Experiences**
-
-Developing realistic physics-based simulations and astronomical visualizations that bring complex scientific concepts to life through interactive, educational, and visually stunning experiences.
-
-</div>
+Physics, astronomy, and real-time interactive visuals.
 
 </td>
 <td align="center" width="33%">
@@ -278,13 +266,7 @@ Developing realistic physics-based simulations and astronomical visualizations t
 
 ### Automation Tools
 
-<div style="text-align: justify">
-
-**Smart Dashboards** • **Data Pipelines** • **AI Assistants** • **Workflow Automation**
-
-Engineering powerful automation solutions that eliminate repetitive tasks, streamline complex workflows, and empower teams to focus on creative problem-solving rather than manual processes.
-
-</div>
+Smart dashboards, data pipelines, and AI assistants.
 
 </td>
 </tr>
