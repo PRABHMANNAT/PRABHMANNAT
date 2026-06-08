@@ -37,25 +37,6 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f680.png" width="26" align="center"/> About Me
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&center=true&vCenter=true&width=700&height=36&color=FFD700&lines=CSBS+%40+Chandigarh+University+%E2%80%A2+3rd+Year;Co-Founder+%26+CTO+%40+Ingen+Labs+(USyd-incubated);Full-Stack+%2B+GenAI+Engineer+%E2%80%A2+Shipping+RAG+%26+Agents;Researcher+%E2%80%A2+Physics+%C3%97+AI+%E2%80%A2+Grants+%26+Awards" alt="About Me Typing" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Full--Stack%20Engineer-0b1220?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/GenAI%20%C2%B7%20RAG%20%C2%B7%20Agents-0b1220?style=for-the-badge&logo=openai&logoColor=white" />
-<a href="https://ingenworkspace.com" target="_blank"><img src="https://img.shields.io/badge/Co--Founder%20%40%20Ingen%20Labs-0b1220?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Physics%20%C3%97%20AI%20Research-0b1220?style=for-the-badge&logo=googlescholar&logoColor=white" />
-
-</div>
-
----
-
 ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f3c6.png" width="28" align="center"/> Notable Achievements
 
 <div align="center">
