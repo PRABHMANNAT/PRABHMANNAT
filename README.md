@@ -131,17 +131,17 @@ Won <b>11+ hackathons</b> — including <b>4 national-level</b> and <b>2 interna
 Won <b>1st place at the university level</b> as an <b>all-category winner</b> for outstanding project innovation.</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/2694.png" width="36" alt="Crossed Swords"/></td>
+<td align="center"><img src="./ICONS/success.png" width="40" alt="Success"/></td>
 <td><b>Winner — Hackshastra 2026</b><br/>
 Secured <b>1st place</b> for innovation, technical execution, and real-world problem-solving.</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f393.png" width="36" alt="Graduation Cap"/></td>
+<td align="center"><img src="./ICONS/success.png" width="40" alt="Success"/></td>
 <td><b>Winner — Smart Tech Ideathon 2.0</b><br/>
 Won the <b>Education Domain</b> category for building solutions focused on improving learning outcomes.</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f9e0.png" width="36" alt="Brain"/></td>
+<td align="center"><img src="./ICONS/success.png" width="40" alt="Success"/></td>
 <td><b>Winner — ThinkLab Ideathon</b><br/>
 Secured <b>1st place</b> with <b>Ingenium</b>, an AI-driven learning platform designed to make education more interactive and accessible.</td>
 </tr>
