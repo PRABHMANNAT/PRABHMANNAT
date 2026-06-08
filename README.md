@@ -204,20 +204,13 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go,html,css&perline=4" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go,html,css,react,nextjs,vue,tailwind,sass&perline=12" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,redux,threejs,jest&perline=4" />
+<img src="https://skillicons.dev/icons?i=redux,threejs,jest,nodejs,express,nestjs,fastapi,django,flask,graphql,prisma,mongodb&perline=12" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,graphql,prisma&perline=4" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase,redis,pytorch,tensorflow,sklearn&perline=12" /><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face" />&nbsp;<img src="https://cdn.simpleicons.org/claude/D97757" height="44" alt="Claude" />&nbsp;<img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=12" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,redis&perline=4" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=4" />
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,nginx,terraform&perline=4" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=postman,git,obsidian,figma,linux&perline=4" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,nginx,terraform,postman,git,obsidian,figma,linux&perline=12" />
 
 </div>
 
