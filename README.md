@@ -64,7 +64,6 @@ I build **production-grade full-stack web and mobile products** using **React/Ne
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/15%2B-Major%20Achievements-FFD700?style=for-the-badge&logo=trophy&logoColor=white" />
 <img src="https://img.shields.io/badge/11%2B-Hackathons%20Won-FF6B35?style=for-the-badge&logo=devpost&logoColor=white" />
 <img src="https://img.shields.io/badge/3-International%20Recognitions-0A66C2?style=for-the-badge&logo=globe&logoColor=white" />
 <img src="https://img.shields.io/badge/₹1.6L%2B-Grants%20%26%20Funding-34A853?style=for-the-badge&logo=cashapp&logoColor=white" />
