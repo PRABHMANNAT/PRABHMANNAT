@@ -236,23 +236,6 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-| 💡 **Project** | ⚙️ **Description** | 🛠️ **Tech Stack** |
-|:---|:---|:---:|
-| **[Ingenium VLab](https://github.com/PRABHMANNAT/virtual-lab)** <br/> *Virtual Simulation Lab* | Core platform for Ingenium's Virtual Lab experience with text-to-simulation workflows and interactive STEM simulations | `Next.js` `Node.js` `AI/ML` |
-| **[Swasth-AI](https://github.com/PRABHMANNAT/Swasth-AI-Medical-llm-fusion-model-AI-diagnosis)** <br/> *Medical LLM Fusion* | Medical LLM fusion pipeline for structured AI diagnosis outputs and research iteration | `Python` `LLMs` `ML` |
-| **[Finance Tracker](https://github.com/PRABHMANNAT/Real-Time-Personal-Finance-Tracker)** <br/> *Real-Time Dashboard* | Track income/expenses with real-time insights, category analysis, and clean dashboard UX | `React` `Node.js` `Database` |
-| **HiggsWardrobe AR** <br/> *AI Fashion Try-On* | AR clothing try-on with AI-powered editing (Higgsfield + Nanobana integration) | `React Native` `GenAI` |
-| **Agentic RAG Knowledge OS** <br/> *Multi-Agent System* | Advanced RAG workspace: document ingestion → retrieval → citations → reports with evaluation | `LangGraph` `RAG` `Python` |
-| **AI-Art Plagiarism Detector** <br/> *Computer Vision Research* | Detection system for AI-generated art and plagiarism using advanced feature learning | `CV` `ML` `Python` |
-
-</div>
-
----
-
 ## What I Love Building
 
 <div align="center">
