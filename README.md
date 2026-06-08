@@ -179,6 +179,26 @@ Signed an <b>MoU with Thapar Ventures</b> to support and strengthen the regional
 <td><b>Assistant Author — Black Holes Research Book</b><br/>
 Served as an <b>Assistant Author</b> for a research book on <b>Black Holes</b> with Monash University faculty, contributing to research on <b>Sagittarius A*</b>.</td>
 </tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python"/></td>
+<td><b>Swasth AI — Medical Diagnostics & Model Fusion Research</b><br/>
+Multimodal LLM fusion pipeline for structured AI diagnosis outputs, advanced healthcare diagnostics, and research iteration.</td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f4ac.png" width="36" alt="Chat"/></td>
+<td><b>Python-based Visual Chatbot for Research-grade HCI Apps</b><br/>
+Built a visual chatbot system designed for human-computer interaction research and applied NLP experimentation.</td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f9ea.png" width="36" alt="Lab"/></td>
+<td><b>VLab Text-to-Simulation — Natural Language → Interactive STEM Experiences</b><br/>
+Natural language driven pipeline that generates interactive STEM simulations for immersive educational experiences.</td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f510.png" width="36" alt="Watermark"/></td>
+<td><b>Robust Semantic Watermarks for LLM Outputs</b><br/>
+Research on embedding and detecting semantic watermarks in LLM-generated text under retrieval and editing conditions.</td>
+</tr>
 </table>
 
 ---
@@ -195,20 +215,6 @@ Served as an <b>Assistant Author</b> for a research book on <b>Black Holes</b> w
 | 🤝 **Open to Collaborate** | Commissioned projects • AI/NLP/DL research • Physics AI projects • Full-stack MVPs |
 
 </div>
-
----
-
-## 📚 Research Work
-
-<div style="text-align: left">
-
-- **VLab Text-to-Simulation** — Natural language → interactive STEM simulation experiences  
-- **Robust Semantic Watermarks for LLM Outputs** under retrieval & editing  
-- **Detection of AI-Generated Art & Painting Plagiarism** using model optimization  
-- **Swasth AI** — diagnostics & model fusion research  
-- **Python-based Visual Chatbot** for research-grade HCI apps
-
-</div>  
 
 ---
 
