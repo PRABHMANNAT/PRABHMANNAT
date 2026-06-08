@@ -175,7 +175,7 @@ Signed an <b>MoU with Thapar Ventures</b> to support and strengthen the regional
 
 <table>
 <tr>
-<td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f30c.png" width="36" alt="Milky Way"/></td>
+<td width="60" align="center"><img src="./ICONS/blackhole.png" width="40" alt="Black Hole"/></td>
 <td><b>Assistant Author — Black Holes Research Book</b><br/>
 Served as an <b>Assistant Author</b> for a research book on <b>Black Holes</b> with Monash University faculty, contributing to research on <b>Sagittarius A*</b>.</td>
 </tr>
