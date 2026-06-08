@@ -36,6 +36,11 @@
   </a>
 </p>
 
+<p align="center">
+3rd-year CSBS student at Chandigarh University, Co-Founder & CTO at <a href="https://ingenworkspace.com" target="_blank"><b>Ingen Labs</b></a> (USyd-incubated EdTech).<br/>
+Full-Stack + GenAI engineer shipping RAG, agents, and real-world AI products — with research roots in physics × AI.
+</p>
+
 </div>
 
 ---
