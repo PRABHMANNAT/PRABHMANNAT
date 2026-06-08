@@ -62,54 +62,124 @@ I build **production-grade full-stack web and mobile products** using **React/Ne
 
 ## 🏆 Notable Achievements
 
-<div style="text-align: justify">
+<div align="center">
 
-🇬🇧 **Top Selected Presenter — London Tech Week 2026**
-Presented research work at **London Tech Week 2026** as one of the top selected presenters, gaining international exposure at a leading global technology and innovation platform.
-
-🏅 **Winner of 11+ Hackathons**
-Won **11+ hackathons**, including **4 national-level** and **2 international hackathons**, demonstrating strong innovation, product-building, and problem-solving skills.
-
-🇦🇺 **2nd Place — Monash University Global Hackathon**
-Ranked **2nd out of 800+ teams** in a global hackathon organized by **Monash University**.
-
-🚀 **Google Startup People's Choice Award — Sydney**
-Won the **People's Choice Award** at **Google Sydney HQ** for Ingenium's innovation and impact in education technology.
-
-🏥 **₹1,00,000 Research Grant — Medical AI System**
-Received a **₹1 lakh research grant** for developing a **Multimodal Medical Fusion Diagnosis System** focused on advanced healthcare diagnostics.
-
-💡 **₹60,000 Research/Innovation Grant**
-Awarded a **₹60,000 Research/Innovation Grant** by the **Corporate Advisory Board, University Innovation Cell**, for innovation-driven research and development.
-
-🇦🇺 **USD $1,000 INCUBATE Funding — University of Sydney**
-Secured **$1,000 USD funding** from the **University of Sydney INCUBATE program** to support product development for Ingenium.
-
-🦈 **Shark Tank India Pitch — CU Ignite**
-Presented startup work to **Shark Tank India judges Aman Gupta and Anupam Mittal** at CU Ignite.
-
-🥇 **Winner — Project Expo 2026, Chandigarh University**
-Won **1st place at the university level** as an **all-category winner** for outstanding project innovation.
-
-⚔️ **Winner — Hackshastra 2026**
-Secured **1st place at Hackshastra 2026** for innovation, technical execution, and real-world problem-solving.
-
-🎓 **Winner — Smart Tech Ideathon 2.0**
-Won the **Education Domain** category for building solutions focused on improving learning outcomes.
-
-🧠 **Winner — ThinkLab Ideathon**
-Secured **1st place** with **Ingenium**, an AI-driven learning platform designed to make education more interactive and accessible.
-
-🎖️ **Exemplary Achievement Award — Abhyuthanam 2026**
-Honoured by **Chandigarh University** with the **Exemplary Achievement Award** for outstanding contributions in innovation, research, and entrepreneurship.
-
-🌌 **Assistant Author — Black Holes Research Book**
-Served as an **Assistant Author** for a research book on **Black Holes** with Monash University faculty, contributing to research on **Sagittarius A***.
-
-🤝 **Thapar Ventures MoU — E-Summit 2025**
-Signed an **MoU with Thapar Ventures** to support and strengthen the regional startup ecosystem.
+<img src="https://img.shields.io/badge/15%2B-Major%20Achievements-FFD700?style=for-the-badge&logo=trophy&logoColor=white" />
+<img src="https://img.shields.io/badge/11%2B-Hackathons%20Won-FF6B35?style=for-the-badge&logo=devpost&logoColor=white" />
+<img src="https://img.shields.io/badge/3-International%20Recognitions-0A66C2?style=for-the-badge&logo=globe&logoColor=white" />
+<img src="https://img.shields.io/badge/₹1.6L%2B-Grants%20%26%20Funding-34A853?style=for-the-badge&logo=cashapp&logoColor=white" />
 
 </div>
+
+<br/>
+
+### 🌍 International Recognition
+
+<table>
+<tr>
+<td width="60" align="center">🇬🇧</td>
+<td><b>Top Selected Presenter — London Tech Week 2026</b><br/>
+Presented research at <b>London Tech Week 2026</b> as one of the top selected presenters — gaining international exposure at a leading global technology and innovation platform.</td>
+</tr>
+<tr>
+<td align="center">🇦🇺</td>
+<td><b>2nd Place — Monash University Global Hackathon</b><br/>
+Ranked <b>2nd out of 800+ teams</b> in a global hackathon organized by <b>Monash University</b>.</td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td><b>Google Startup People's Choice Award — Sydney</b><br/>
+Won the <b>People's Choice Award</b> at <b>Google Sydney HQ</b> for Ingenium's innovation and impact in education technology.</td>
+</tr>
+</table>
+
+---
+
+### 💰 Grants & Funding
+
+<table>
+<tr>
+<td width="60" align="center">🏥</td>
+<td><b>₹1,00,000 Research Grant — Medical AI System</b><br/>
+Received a <b>₹1 lakh research grant</b> for developing a <b>Multimodal Medical Fusion Diagnosis System</b> focused on advanced healthcare diagnostics.</td>
+</tr>
+<tr>
+<td align="center">💡</td>
+<td><b>₹60,000 Research / Innovation Grant</b><br/>
+Awarded by the <b>Corporate Advisory Board, University Innovation Cell</b> for innovation-driven research and development.</td>
+</tr>
+<tr>
+<td align="center">🇦🇺</td>
+<td><b>USD $1,000 INCUBATE Funding — University of Sydney</b><br/>
+Secured <b>$1,000 USD funding</b> from the <b>University of Sydney INCUBATE program</b> to support product development for Ingenium.</td>
+</tr>
+</table>
+
+---
+
+### ⚔️ Hackathons & Competitions
+
+<table>
+<tr>
+<td width="60" align="center">🏅</td>
+<td><b>Winner of 11+ Hackathons</b><br/>
+Won <b>11+ hackathons</b> — including <b>4 national-level</b> and <b>2 international</b> — demonstrating strong innovation, product-building, and problem-solving skills.</td>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><b>Winner — Project Expo 2026, Chandigarh University</b><br/>
+Won <b>1st place at the university level</b> as an <b>all-category winner</b> for outstanding project innovation.</td>
+</tr>
+<tr>
+<td align="center">⚔️</td>
+<td><b>Winner — Hackshastra 2026</b><br/>
+Secured <b>1st place</b> for innovation, technical execution, and real-world problem-solving.</td>
+</tr>
+<tr>
+<td align="center">🎓</td>
+<td><b>Winner — Smart Tech Ideathon 2.0</b><br/>
+Won the <b>Education Domain</b> category for building solutions focused on improving learning outcomes.</td>
+</tr>
+<tr>
+<td align="center">🧠</td>
+<td><b>Winner — ThinkLab Ideathon</b><br/>
+Secured <b>1st place</b> with <b>Ingenium</b>, an AI-driven learning platform designed to make education more interactive and accessible.</td>
+</tr>
+</table>
+
+---
+
+### 🎖️ Honors & Awards
+
+<table>
+<tr>
+<td width="60" align="center">🦈</td>
+<td><b>Shark Tank India Pitch — CU Ignite</b><br/>
+Presented startup work to <b>Shark Tank India judges Aman Gupta and Anupam Mittal</b> at CU Ignite.</td>
+</tr>
+<tr>
+<td align="center">🎖️</td>
+<td><b>Exemplary Achievement Award — Abhyuthanam 2026</b><br/>
+Honoured by <b>Chandigarh University</b> for outstanding contributions in innovation, research, and entrepreneurship.</td>
+</tr>
+<tr>
+<td align="center">🤝</td>
+<td><b>Thapar Ventures MoU — E-Summit 2025</b><br/>
+Signed an <b>MoU with Thapar Ventures</b> to support and strengthen the regional startup ecosystem.</td>
+</tr>
+</table>
+
+---
+
+### 📚 Research & Publications
+
+<table>
+<tr>
+<td width="60" align="center">🌌</td>
+<td><b>Assistant Author — Black Holes Research Book</b><br/>
+Served as an <b>Assistant Author</b> for a research book on <b>Black Holes</b> with Monash University faculty, contributing to research on <b>Sagittarius A*</b>.</td>
+</tr>
+</table>
 
 ---
 
