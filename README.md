@@ -37,7 +37,7 @@
 </p>
 
 <p align="justify">
-I'm a final-year CS &amp; Business student at <b>Chandigarh University</b>. I have hands-on experience as a <b>Full-Stack and GenAI Engineer</b>, building production-grade <b>RAG systems</b>, <b>autonomous agents</b>, and real-world products. I founded <a href="https://ingenworkspace.com" target="_blank"><b>InGen Labs</b></a> in <b>2024</b>, currently engineer at <b>Orchestra</b> building a single source of truth for companies, and I'm open to new opportunities.
+I'm a final-year CS &amp; Business student at <b>Chandigarh University</b>. I have hands-on experience as a <b>Full-Stack and GenAI Engineer</b>, building production-grade <b>RAG systems</b>, <b>autonomous agents</b>, and real-world products. I founded <a href="https://ingenworkspace.com" target="_blank"><b>InGen Labs</b></a> in <b>2024</b>, currently engineer at <b>Orchestra</b> building a single source of truth for companies, and I'm <a href="https://www.linkedin.com/in/prabhmannat" target="_blank"><b>open to new opportunities&nbsp;↗</b></a>.
 </p>
 
 </div>
