@@ -203,21 +203,6 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 
 ---
 
-## 🔭 What I'm Up To (right now)
-
-<div align="center">
-
-| **Focus Area** | **Current Work** |
-|:---:|:---|
-| 🚧 **Building** | Text-to-Simulation pipelines • Virtual Simulation Labs • EdTech products |
-| 🤖 **Engineering** | RAG + Agentic Systems (LangGraph/LangChain) • Production AI workflows • Evaluation loops |
-| 🌌 **Research** | Astronomy simulations • Black hole dynamics • Physics modeling experiments |
-| 🤝 **Open to Collaborate** | Commissioned projects • AI/NLP/DL research • Physics AI projects • Full-stack MVPs |
-
-</div>
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
