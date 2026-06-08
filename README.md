@@ -207,15 +207,6 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,fastapi,graphql,python&perline=10" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongodb,postgres,supabase,redis,aws,docker,kubernetes,vercel&perline=10" />
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-D4A373?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
 
 </div>
 
