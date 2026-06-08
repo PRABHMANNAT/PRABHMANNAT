@@ -104,7 +104,7 @@ Won the <b>People's Choice Award</b> at <b>Google Sydney HQ</b> for Ingenium's i
 Received a <b>₹1 lakh research grant</b> for developing a <b>Multimodal Medical Fusion Diagnosis System</b> focused on advanced healthcare diagnostics.</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f4a1.png" width="36" alt="Light Bulb"/></td>
+<td align="center"><img src="./ICONS/grant.png" width="40" alt="Grant"/></td>
 <td><b>₹60,000 Research / Innovation Grant</b><br/>
 Awarded by the <b>Corporate Advisory Board, University Innovation Cell</b> for innovation-driven research and development.</td>
 </tr>
