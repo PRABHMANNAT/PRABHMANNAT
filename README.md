@@ -204,16 +204,54 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 
 <div align="center">
 
-<div align="center">
+**💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,rust,cpp,tailwind,nodejs,express,graphql&perline=10" />
-<br/>
-<br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,rust,go,java,html,css&perline=10" />
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,mongodb,supabase,mysql,postgres&perline=10" />
+<br/><br/>
+
+**🎨 Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,bootstrap,sass,redux,threejs,vite&perline=10" />
+
+<br/><br/>
+
+**⚙️ Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,graphql,prisma,jest,bun&perline=10" />
+
+<br/><br/>
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis,sqlite,firebase&perline=10" />
+
+<br/><br/>
+
+**🤖 AI / ML / GenAI**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,py&perline=10" />
 <br/>
-<br>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,git,linux&perline=10" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D4A373?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-2E2E2E?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
+
+<br/><br/>
+
+**☁️ Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,netlify,nginx,githubactions,terraform&perline=10" />
+
+<br/><br/>
+
+**🛠️ Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash,vim,notion,obsidian&perline=10" />
 
 </div>
 
