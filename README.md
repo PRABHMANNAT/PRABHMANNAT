@@ -225,7 +225,7 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 
 <!-- Stats + Streak side-by-side -->
 <a href="https://github.com/PRABHMANNAT">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PRABHMANNAT&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.hackclub.dev/api?username=PRABHMANNAT&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=C9D1D9" alt="GitHub Stats" />
   <img height="180" src="https://streak-stats.demolab.com?user=PRABHMANNAT&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700" alt="GitHub Streak" />
 </a>
 
@@ -233,14 +233,14 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 
 <!-- Top Languages -->
 <a href="https://github.com/PRABHMANNAT">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRABHMANNAT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=PRABHMANNAT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
 <!-- Trophy Showcase -->
 <a href="https://github.com/PRABHMANNAT">
-  <img src="https://github-profile-trophy.vercel.app/?username=PRABHMANNAT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=PRABHMANNAT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
 </a>
 
 <br/><br/>
