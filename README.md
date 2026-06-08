@@ -18,13 +18,7 @@
   </a>
 </p>
 
-</div>
-
-<p align="justify">
-I'm a final-year CS &amp; Business student at <b>Chandigarh University</b>. I have hands-on experience as a <b>Full-Stack and GenAI Engineer</b>, building production-grade <b>RAG systems</b>, <b>autonomous agents</b>, and real-world products. I founded <a href="https://ingenworkspace.com" target="_blank"><b>InGen Labs</b></a> in <b>2024</b>, currently engineer at <b>Orchestra</b> building a single source of truth for companies, and I'm <a href="https://www.linkedin.com/in/prabhmannat" target="_blank"><b>open to new opportunities&nbsp;↗</b></a>.
-</p>
-
-<div align="center">
+<br/>
 
 <!-- ===== CTA LINKS ===== -->
 <p>
@@ -40,6 +34,10 @@ I'm a final-year CS &amp; Business student at <b>Chandigarh University</b>. I ha
   <a href="https://drive.google.com/file/d/1u9RVlFNkr1J5Ng3gWvIgcF-kiaFIu_kU/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
+</p>
+
+<p align="justify">
+I'm a final-year CS &amp; Business student at <b>Chandigarh University</b>. I have hands-on experience as a <b>Full-Stack and GenAI Engineer</b>, building production-grade <b>RAG systems</b>, <b>autonomous agents</b>, and real-world products. I founded <a href="https://ingenworkspace.com" target="_blank"><b>InGen Labs</b></a> in <b>2024</b>, currently engineer at <b>Orchestra</b> building a single source of truth for companies, and I'm <a href="https://www.linkedin.com/in/prabhmannat" target="_blank"><b>open to new opportunities&nbsp;↗</b></a>.
 </p>
 
 </div>
