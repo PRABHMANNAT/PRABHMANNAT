@@ -28,6 +28,9 @@
   <a href="https://www.linkedin.com/in/prabhmannat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://www.instagram.com/young.elonmusk/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://drive.google.com/file/d/1u9RVlFNkr1J5Ng3gWvIgcF-kiaFIu_kU/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
