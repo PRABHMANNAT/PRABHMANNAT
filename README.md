@@ -87,7 +87,7 @@ Presented research at <b>London Tech Week 2026</b> as one of the top selected pr
 Ranked <b>2nd out of 800+ teams</b> in a global hackathon organized by <b>Monash University</b>.</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f680.png" width="36" alt="Rocket"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" alt="Google"/></td>
 <td><b>Google Startup People's Choice Award — Sydney</b><br/>
 Won the <b>People's Choice Award</b> at <b>Google Sydney HQ</b> for Ingenium's innovation and impact in education technology.</td>
 </tr>
