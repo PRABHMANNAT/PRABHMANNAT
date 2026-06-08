@@ -126,7 +126,7 @@ Secured <b>$1,000 USD funding</b> from the <b>University of Sydney INCUBATE prog
 Won <b>11+ hackathons</b> — including <b>4 national-level</b> and <b>2 international</b> — demonstrating strong innovation, product-building, and problem-solving skills.</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f947.png" width="36" alt="1st Place Medal"/></td>
+<td align="center"><img src="./ICONS/medal-.png" width="40" alt="Medal"/></td>
 <td><b>Winner — Project Expo 2026, Chandigarh University</b><br/>
 Won <b>1st place at the university level</b> as an <b>all-category winner</b> for outstanding project innovation.</td>
 </tr>
