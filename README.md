@@ -242,9 +242,9 @@ Smart dashboards, data pipelines, and AI assistants.
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=760&height=40&color=FFD700&lines=Available+for+Paid+Projects+%26+Freelance+Work.;Open+to+Full-Time+%26+Internship+Opportunities.;Open+to+Consulting+on+GenAI+%2B+Full-Stack+builds.;Let's+build+something+meaningful+together." alt="Connect Typing SVG" /></a>
 <br/>
-<img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-34A853?style=for-the-badge&labelColor=0b1220" alt="Open to Work" />
-<img src="https://img.shields.io/badge/AVAILABLE%20FOR%20HIRE-FFD700?style=for-the-badge&labelColor=0b1220&color=FFD700" alt="Available for Hire" />
-<img src="https://img.shields.io/badge/FREELANCE%20%E2%80%A2%20PAID%20PROJECTS-0A66C2?style=for-the-badge&labelColor=0b1220" alt="Freelance / Paid Projects" />
+<a href="https://www.linkedin.com/in/prabhmannat" target="_blank"><img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-34A853?style=for-the-badge&labelColor=0b1220" alt="Open to Work" /></a>
+<a href="https://www.linkedin.com/in/prabhmannat" target="_blank"><img src="https://img.shields.io/badge/AVAILABLE%20FOR%20HIRE-FFD700?style=for-the-badge&labelColor=0b1220&color=FFD700" alt="Available for Hire" /></a>
+<a href="https://www.linkedin.com/in/prabhmannat" target="_blank"><img src="https://img.shields.io/badge/FREELANCE%20%E2%80%A2%20PAID%20PROJECTS-0A66C2?style=for-the-badge&labelColor=0b1220" alt="Freelance / Paid Projects" /></a>
 <br/><br/>
 <a href="https://www.linkedin.com/in/prabhmannat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:Prabhmannat10048@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
