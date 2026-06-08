@@ -241,22 +241,16 @@ Smart dashboards, data pipelines, and AI assistants.
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=720&color=FFD700&lines=Let's+build+something+meaningful+together.;Open+to+AI+products%2C+research+%26+founder+chats.;Always+up+for+ambitious%2C+real-world+problems." alt="Connect Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=760&height=40&color=FFD700&lines=Available+for+Paid+Projects+%26+Freelance+Work.;Open+to+Full-Time+%26+Internship+Opportunities.;Open+to+Consulting+on+GenAI+%2B+Full-Stack+builds.;Let's+build+something+meaningful+together." alt="Connect Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- Collab Interests -->
-<table>
-<tr>
-<td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f9e0.png" width="36" /><br/><b>GenAI Products</b><br/><sub>RAG · Agents · LLM workflows</sub></td>
-<td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f9ea.png" width="36" /><br/><b>Research</b><br/><sub>Physics AI · NLP · CV</sub></td>
-<td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f680.png" width="36" /><br/><b>Founder Chats</b><br/><sub>EdTech · MVPs · 0→1</sub></td>
-<td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f4bc.png" width="36" /><br/><b>Freelance</b><br/><sub>Full-stack · AI integration</sub></td>
-</tr>
-</table>
-
 <br/>
+
+<img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-34A853?style=for-the-badge&labelColor=0b1220" alt="Open to Work" />
+<img src="https://img.shields.io/badge/AVAILABLE%20FOR%20HIRE-FFD700?style=for-the-badge&labelColor=0b1220&color=FFD700" alt="Available for Hire" />
+<img src="https://img.shields.io/badge/FREELANCE%20%E2%80%A2%20PAID%20PROJECTS-0A66C2?style=for-the-badge&labelColor=0b1220" alt="Freelance / Paid Projects" />
+
+<br/><br/>
 
 <!-- Contact Buttons -->
 <a href="https://www.linkedin.com/in/prabhmannat" target="_blank">
