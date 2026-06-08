@@ -99,7 +99,7 @@ Won the <b>People's Choice Award</b> at <b>Google Sydney HQ</b> for Ingenium's i
 
 <table>
 <tr>
-<td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f3e5.png" width="36" alt="Hospital"/></td>
+<td width="60" align="center"><img src="./ICONS/grant.png" width="40" alt="Grant"/></td>
 <td><b>₹1,00,000 Research Grant — Medical AI System</b><br/>
 Received a <b>₹1 lakh research grant</b> for developing a <b>Multimodal Medical Fusion Diagnosis System</b> focused on advanced healthcare diagnostics.</td>
 </tr>
