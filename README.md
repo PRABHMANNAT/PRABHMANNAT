@@ -204,9 +204,18 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,fastapi,graphql,python&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go,html,css&perline=10" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongodb,postgres,supabase,redis,aws,docker,kubernetes,vercel&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,redux,threejs,jest&perline=10" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,graphql,prisma&perline=10" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,redis,pytorch,tensorflow,sklearn&perline=10" />
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,nginx,terraform&perline=10" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postman,git,obsidian,figma,linux&perline=10" />
 
 </div>
 
