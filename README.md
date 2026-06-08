@@ -60,7 +60,7 @@ I build **production-grade full-stack web and mobile products** using **React/Ne
 
 ---
 
-## 🏆 Notable Achievements
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f3c6.png" width="28" align="center"/> Notable Achievements
 
 <div align="center">
 
@@ -73,7 +73,7 @@ I build **production-grade full-stack web and mobile products** using **React/Ne
 
 <br/>
 
-### 🌍 International Recognition
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f30d.png" width="24" align="center"/> International Recognition
 
 <table>
 <tr>
@@ -87,7 +87,7 @@ Presented research at <b>London Tech Week 2026</b> as one of the top selected pr
 Ranked <b>2nd out of 800+ teams</b> in a global hackathon organized by <b>Monash University</b>.</td>
 </tr>
 <tr>
-<td align="center">🚀</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f680.png" width="36" alt="Rocket"/></td>
 <td><b>Google Startup People's Choice Award — Sydney</b><br/>
 Won the <b>People's Choice Award</b> at <b>Google Sydney HQ</b> for Ingenium's innovation and impact in education technology.</td>
 </tr>
@@ -95,16 +95,16 @@ Won the <b>People's Choice Award</b> at <b>Google Sydney HQ</b> for Ingenium's i
 
 ---
 
-### 💰 Grants & Funding
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f4b0.png" width="24" align="center"/> Grants & Funding
 
 <table>
 <tr>
-<td width="60" align="center">🏥</td>
+<td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f3e5.png" width="36" alt="Hospital"/></td>
 <td><b>₹1,00,000 Research Grant — Medical AI System</b><br/>
 Received a <b>₹1 lakh research grant</b> for developing a <b>Multimodal Medical Fusion Diagnosis System</b> focused on advanced healthcare diagnostics.</td>
 </tr>
 <tr>
-<td align="center">💡</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f4a1.png" width="36" alt="Light Bulb"/></td>
 <td><b>₹60,000 Research / Innovation Grant</b><br/>
 Awarded by the <b>Corporate Advisory Board, University Innovation Cell</b> for innovation-driven research and development.</td>
 </tr>
@@ -117,31 +117,31 @@ Secured <b>$1,000 USD funding</b> from the <b>University of Sydney INCUBATE prog
 
 ---
 
-### ⚔️ Hackathons & Competitions
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/2694.png" width="24" align="center"/> Hackathons & Competitions
 
 <table>
 <tr>
-<td width="60" align="center">🏅</td>
+<td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f3c5.png" width="36" alt="Sports Medal"/></td>
 <td><b>Winner of 11+ Hackathons</b><br/>
 Won <b>11+ hackathons</b> — including <b>4 national-level</b> and <b>2 international</b> — demonstrating strong innovation, product-building, and problem-solving skills.</td>
 </tr>
 <tr>
-<td align="center">🥇</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f947.png" width="36" alt="1st Place Medal"/></td>
 <td><b>Winner — Project Expo 2026, Chandigarh University</b><br/>
 Won <b>1st place at the university level</b> as an <b>all-category winner</b> for outstanding project innovation.</td>
 </tr>
 <tr>
-<td align="center">⚔️</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/2694.png" width="36" alt="Crossed Swords"/></td>
 <td><b>Winner — Hackshastra 2026</b><br/>
 Secured <b>1st place</b> for innovation, technical execution, and real-world problem-solving.</td>
 </tr>
 <tr>
-<td align="center">🎓</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f393.png" width="36" alt="Graduation Cap"/></td>
 <td><b>Winner — Smart Tech Ideathon 2.0</b><br/>
 Won the <b>Education Domain</b> category for building solutions focused on improving learning outcomes.</td>
 </tr>
 <tr>
-<td align="center">🧠</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f9e0.png" width="36" alt="Brain"/></td>
 <td><b>Winner — ThinkLab Ideathon</b><br/>
 Secured <b>1st place</b> with <b>Ingenium</b>, an AI-driven learning platform designed to make education more interactive and accessible.</td>
 </tr>
@@ -149,21 +149,21 @@ Secured <b>1st place</b> with <b>Ingenium</b>, an AI-driven learning platform de
 
 ---
 
-### 🎖️ Honors & Awards
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f396.png" width="24" align="center"/> Honors & Awards
 
 <table>
 <tr>
-<td width="60" align="center">🦈</td>
+<td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f988.png" width="36" alt="Shark"/></td>
 <td><b>Shark Tank India Pitch — CU Ignite</b><br/>
 Presented startup work to <b>Shark Tank India judges Aman Gupta and Anupam Mittal</b> at CU Ignite.</td>
 </tr>
 <tr>
-<td align="center">🎖️</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f396.png" width="36" alt="Military Medal"/></td>
 <td><b>Exemplary Achievement Award — Abhyuthanam 2026</b><br/>
 Honoured by <b>Chandigarh University</b> for outstanding contributions in innovation, research, and entrepreneurship.</td>
 </tr>
 <tr>
-<td align="center">🤝</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f91d.png" width="36" alt="Handshake"/></td>
 <td><b>Thapar Ventures MoU — E-Summit 2025</b><br/>
 Signed an <b>MoU with Thapar Ventures</b> to support and strengthen the regional startup ecosystem.</td>
 </tr>
@@ -171,11 +171,11 @@ Signed an <b>MoU with Thapar Ventures</b> to support and strengthen the regional
 
 ---
 
-### 📚 Research & Publications
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f4da.png" width="24" align="center"/> Research & Publications
 
 <table>
 <tr>
-<td width="60" align="center">🌌</td>
+<td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f30c.png" width="36" alt="Milky Way"/></td>
 <td><b>Assistant Author — Black Holes Research Book</b><br/>
 Served as an <b>Assistant Author</b> for a research book on <b>Black Holes</b> with Monash University faculty, contributing to research on <b>Sagittarius A*</b>.</td>
 </tr>
