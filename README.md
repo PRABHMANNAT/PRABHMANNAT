@@ -121,7 +121,7 @@ Secured <b>$1,000 USD funding</b> from the <b>University of Sydney INCUBATE prog
 
 <table>
 <tr>
-<td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f3c5.png" width="36" alt="Sports Medal"/></td>
+<td width="60" align="center"><img src="./ICONS/trophy.png" width="40" alt="Trophy"/></td>
 <td><b>Winner of 11+ Hackathons</b><br/>
 Won <b>11+ hackathons</b> — including <b>4 national-level</b> and <b>2 international</b> — demonstrating strong innovation, product-building, and problem-solving skills.</td>
 </tr>
