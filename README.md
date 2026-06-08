@@ -163,7 +163,7 @@ Presented startup work to <b>Shark Tank India judges Aman Gupta and Anupam Mitta
 Honoured by <b>Chandigarh University</b> for outstanding contributions in innovation, research, and entrepreneurship.</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f91d.png" width="36" alt="Handshake"/></td>
+<td align="center"><img src="./ICONS/contract.png" width="40" alt="Contract"/></td>
 <td><b>Thapar Ventures MoU — E-Summit 2025</b><br/>
 Signed an <b>MoU with Thapar Ventures</b> to support and strengthen the regional startup ecosystem.</td>
 </tr>
