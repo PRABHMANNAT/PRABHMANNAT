@@ -216,26 +216,6 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 
 ---
 
-## 📊 GitHub Activity & Contribution Streak
-
-<div align="center">
-
-<!-- 2026 Contributions + Current Streak + Longest Streak (all in one widget) -->
-<a href="https://github.com/PRABHMANNAT">
-  <img src="https://streak-stats.demolab.com?user=PRABHMANNAT&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&date_format=M%20j%5B%2C%20Y%5D&starting_year=2026" alt="GitHub Streak Stats (2026)" />
-</a>
-
-<br/><br/>
-
-<!-- Contribution Activity Graph -->
-<a href="https://github.com/PRABHMANNAT">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRABHMANNAT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FF6B35&area=true&area_color=FFD700" alt="Contribution Graph" />
-</a>
-
-</div>
-
----
-
 ## What I Love Building
 
 <div align="center">
@@ -288,8 +268,21 @@ Smart dashboards, data pipelines, and AI assistants.
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
 </a>
 
-<br/>
-<br>
+<br/><br/>
+
+<!-- GitHub Activity: 2026 Contributions + Current Streak + Longest Streak -->
+<a href="https://github.com/PRABHMANNAT">
+  <img src="https://streak-stats.demolab.com?user=PRABHMANNAT&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&date_format=M%20j%5B%2C%20Y%5D&starting_year=2026" alt="GitHub Streak Stats (2026)" />
+</a>
+
+<br/><br/>
+
+<!-- Contribution Activity Graph -->
+<a href="https://github.com/PRABHMANNAT">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRABHMANNAT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FF6B35&area=true&area_color=FFD700" alt="Contribution Graph" />
+</a>
+
+<br/><br/>
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28"/>
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="28"/>
