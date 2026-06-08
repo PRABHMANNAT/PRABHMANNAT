@@ -200,7 +200,7 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 
 ---
 
-## 🧰 Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f6e0.png" width="28" align="center"/> Tech Stack
 
 <div align="center">
 
