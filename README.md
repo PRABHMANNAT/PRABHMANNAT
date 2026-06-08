@@ -14,7 +14,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=850&center=true&vCenter=true&width=800&height=40&lines=Next.js+%2B+Node.js+%7C+RAG+%2B+Agents+%7C+AWS+%2B+DevOps;Full-Stack+Software+Engineer;GenAI+Engineer+%7C+LLMs+%7C+RAG+%2B+Agents;Co-Founder+%26+Lead+Architect+%40+Ingenium;Computational+Physics+%26+AI+Researcher+%7C+Black+Holes+%7C+Deep+Networks" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=850&center=true&vCenter=true&width=800&height=40&lines=Next.js+%2B+Node.js+%7C+RAG+%2B+Agents+%7C+AWS+%2B+DevOps;Full-Stack+Software+Engineer;GenAI+Engineer+%7C+LLMs+%7C+RAG+%2B+Agents;Co-Founder+%26+Lead+Architect+%40+Ingen+Labs;Computational+Physics+%26+AI+Researcher+%7C+Black+Holes+%7C+Deep+Networks" alt="Typing SVG" />
   </a>
 </p>
 
@@ -42,14 +42,14 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&center=true&vCenter=true&width=700&height=36&color=FFD700&lines=CSBS+%40+Chandigarh+University+%E2%80%A2+3rd+Year;Co-Founder+%26+CTO+%40+Ingenium+(USyd-incubated);Full-Stack+%2B+GenAI+Engineer+%E2%80%A2+Shipping+RAG+%26+Agents;Researcher+%E2%80%A2+Physics+%C3%97+AI+%E2%80%A2+Grants+%26+Awards" alt="About Me Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&center=true&vCenter=true&width=700&height=36&color=FFD700&lines=CSBS+%40+Chandigarh+University+%E2%80%A2+3rd+Year;Co-Founder+%26+CTO+%40+Ingen+Labs+(USyd-incubated);Full-Stack+%2B+GenAI+Engineer+%E2%80%A2+Shipping+RAG+%26+Agents;Researcher+%E2%80%A2+Physics+%C3%97+AI+%E2%80%A2+Grants+%26+Awards" alt="About Me Typing" />
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Full--Stack%20Engineer-0b1220?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/GenAI%20%C2%B7%20RAG%20%C2%B7%20Agents-0b1220?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Co--Founder%20%40%20Ingenium-0b1220?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://ingenworkspace.com" target="_blank"><img src="https://img.shields.io/badge/Co--Founder%20%40%20Ingen%20Labs-0b1220?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Physics%20%C3%97%20AI%20Research-0b1220?style=for-the-badge&logo=googlescholar&logoColor=white" />
 
 </div>
@@ -82,7 +82,7 @@ Ranked <b>2nd out of 800+ teams</b> in a global hackathon organized by <b>Monash
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" alt="Google"/></td>
 <td><b>Google Startup People's Choice Award — Sydney</b><br/>
-Won the <b>People's Choice Award</b> at <b>Google Sydney HQ</b> for Ingenium's innovation and impact in education technology.</td>
+Won the <b>People's Choice Award</b> at <b>Google Sydney HQ</b> for <a href="https://ingenworkspace.com" target="_blank">Ingen Labs'</a> innovation and impact in education technology.</td>
 </tr>
 </table>
 
@@ -104,7 +104,7 @@ Awarded by the <b>Corporate Advisory Board, University Innovation Cell</b> for i
 <tr>
 <td align="center"><img src="https://flagcdn.com/w40/au.png" width="36" alt="Australia"/></td>
 <td><b>USD $1,000 INCUBATE Funding — University of Sydney</b><br/>
-Secured <b>$1,000 USD funding</b> from the <b>University of Sydney INCUBATE program</b> to support product development for Ingenium.</td>
+Secured <b>$1,000 USD funding</b> from the <b>University of Sydney INCUBATE program</b> to support product development for <a href="https://ingenworkspace.com" target="_blank">Ingen Labs</a>.</td>
 </tr>
 </table>
 
@@ -136,7 +136,7 @@ Won the <b>Education Domain</b> category for building solutions focused on impro
 <tr>
 <td align="center"><img src="./ICONS/success.png" width="40" alt="Success"/></td>
 <td><b>Winner — ThinkLab Ideathon</b><br/>
-Secured <b>1st place</b> with <b>Ingenium</b>, an AI-driven learning platform designed to make education more interactive and accessible.</td>
+Secured <b>1st place</b> with <b><a href="https://ingenworkspace.com" target="_blank">Ingen Labs</a></b>, an AI-driven learning platform designed to make education more interactive and accessible.</td>
 </tr>
 </table>
 
