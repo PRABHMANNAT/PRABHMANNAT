@@ -297,21 +297,20 @@ Smart dashboards, data pipelines, and AI assistants.
 
 <br/><br/>
 
-<!-- Footer badges -->
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="28"/>
-
-<br/><br/>
-
-<!-- Contribution Activity Graph (kept at the very end) -->
+<!-- Contribution Activity Graph -->
 <a href="https://github.com/PRABHMANNAT">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRABHMANNAT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FF6B35&area=true&area_color=FFD700" alt="Contribution Graph" />
 </a>
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1e293b&section=footer&text=Build%20fast.%20Ship%20clean.%20Iterate%20hard.&fontColor=e2e8f0&fontSize=24&fontAlignY=65&animation=twinkling" />
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="28"/>
 
 </div>
+
+---
