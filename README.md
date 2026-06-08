@@ -204,17 +204,9 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,js,tailwind,bootstrap,threejs,vite&perline=10" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,fastapi,graphql,python&perline=10" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,graphql,prisma,jest&perline=10" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,cpp,c,go&perline=10" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis,aws,gcp,azure&perline=10" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,nginx,githubactions,terraform,linux&perline=10" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,postman,figma,obsidian,html,css,sass&perline=10" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongodb,postgres,supabase,redis,aws,docker,kubernetes,vercel&perline=10" />
 <br/><br/>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -223,9 +215,6 @@ Research on embedding and detecting semantic watermarks in LLM-generated text un
 <img src="https://img.shields.io/badge/Anthropic-D4A373?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-2E2E2E?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
 
 </div>
