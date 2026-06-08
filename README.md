@@ -36,9 +36,8 @@
   </a>
 </p>
 
-<p align="center">
-3rd-year CSBS student at Chandigarh University, Co-Founder & CTO at <a href="https://ingenworkspace.com" target="_blank"><b>Ingen Labs</b></a> (USyd-incubated EdTech).<br/>
-Full-Stack + GenAI engineer shipping RAG, agents, and real-world AI products — with research roots in physics × AI.
+<p align="justify">
+I'm a final-year CS &amp; Business student at <b>Chandigarh University</b>. I have hands-on experience as a <b>Full-Stack and GenAI Engineer</b>, building production-grade <b>RAG systems</b>, <b>autonomous agents</b>, and real-world products. I founded <a href="https://ingenworkspace.com" target="_blank"><b>InGen Labs</b></a> in <b>2024</b>, currently engineer at <b>Orchestra</b> building a single source of truth for companies, and I'm open to new opportunities.
 </p>
 
 </div>
