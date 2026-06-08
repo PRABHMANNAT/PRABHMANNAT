@@ -77,12 +77,12 @@ I build **production-grade full-stack web and mobile products** using **React/Ne
 
 <table>
 <tr>
-<td width="60" align="center">🇬🇧</td>
+<td width="60" align="center"><img src="https://flagcdn.com/w40/gb.png" width="36" alt="UK"/></td>
 <td><b>Top Selected Presenter — London Tech Week 2026</b><br/>
 Presented research at <b>London Tech Week 2026</b> as one of the top selected presenters — gaining international exposure at a leading global technology and innovation platform.</td>
 </tr>
 <tr>
-<td align="center">🇦🇺</td>
+<td align="center"><img src="https://flagcdn.com/w40/au.png" width="36" alt="Australia"/></td>
 <td><b>2nd Place — Monash University Global Hackathon</b><br/>
 Ranked <b>2nd out of 800+ teams</b> in a global hackathon organized by <b>Monash University</b>.</td>
 </tr>
@@ -109,7 +109,7 @@ Received a <b>₹1 lakh research grant</b> for developing a <b>Multimodal Medica
 Awarded by the <b>Corporate Advisory Board, University Innovation Cell</b> for innovation-driven research and development.</td>
 </tr>
 <tr>
-<td align="center">🇦🇺</td>
+<td align="center"><img src="https://flagcdn.com/w40/au.png" width="36" alt="Australia"/></td>
 <td><b>USD $1,000 INCUBATE Funding — University of Sydney</b><br/>
 Secured <b>$1,000 USD funding</b> from the <b>University of Sydney INCUBATE program</b> to support product development for Ingenium.</td>
 </tr>
