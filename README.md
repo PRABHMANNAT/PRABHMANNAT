@@ -158,7 +158,7 @@ Secured <b>1st place</b> with <b>Ingenium</b>, an AI-driven learning platform de
 Presented startup work to <b>Shark Tank India judges Aman Gupta and Anupam Mittal</b> at CU Ignite.</td>
 </tr>
 <tr>
-<td align="center"><img src="./ICONS/gold-medal.png" width="40" alt="Gold Medal"/></td>
+<td align="center"><img src="./ICONS/success.png" width="40" alt="Success"/></td>
 <td><b>Exemplary Achievement Award — Abhyuthanam 2026</b><br/>
 Honoured by <b>Chandigarh University</b> for outstanding contributions in innovation, research, and entrepreneurship.</td>
 </tr>
